@@ -11,8 +11,11 @@
 .grid-item-1 {
 
     grid-column: 1 / span 3;
-    background-color:ghostwhite;
+    background-color:rgb(14, 222, 153);
     padding: 1% 5%;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
 }
 
 
@@ -24,24 +27,46 @@
 
 .grid-item-3 { 
 
-    grid-column: 3 / span 1;
-    background-color:greenyellow;
+    grid-column: 1 / span 3;
+    background-color:rgb(14, 222, 153);
     padding: 1% 5%;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
 }
 
 
 .grid-item-4 { 
 
-    grid-area: 1 / 4 / 3 / 4;
     grid-column: 1 / span 3;
+    background-color:rgb(14, 222, 153);
+    padding: 1% 5%;
     border-style: solid;
     border-width: 5px;
     border-radius: 5px;
-    padding: 0px 10px 5px;
-    margin: 10px;
-    text-align: center;
-    background-color:rgb(42, 201, 130);
 
+}
+
+.grid-item-5 {
+
+    grid-column: 1 / span 3;
+    background-color:rgb(14, 222, 153);
+    padding: 1% 5%;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+
+}
+
+
+.grid-item-6 {
+
+    grid-column: 1 / span 3;
+    background-color:rgb(14, 222, 153);
+    padding: 1% 5%;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
 }
 
 h1 {

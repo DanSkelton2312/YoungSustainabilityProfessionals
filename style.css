@@ -5,7 +5,7 @@ body {
 
      padding-left: 10%;
      padding-right: 10%;
-     background-color:rgb(77, 187, 109);
+     background-color: mediumseagreen;
      color:black; 
 
 
@@ -20,14 +20,15 @@ body {
 
 }
 
-.header {margin: 20px;}
 
 
 .nav > ul {
 
     overflow: hidden;
     list-style-type: none;
-    background-color:khaki;
+    background-color: white
+    
+    
 
 }
 
@@ -37,7 +38,7 @@ body {
 
     float: right;
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 10px;
 }
